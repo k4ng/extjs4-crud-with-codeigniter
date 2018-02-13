@@ -1,5 +1,3 @@
-# extjs4-crud-with-codeigniter
-
 ## Intro
 This is a sample ```CRUD``` using ExtJS 4.2 with Codeigniter 3.x
 
