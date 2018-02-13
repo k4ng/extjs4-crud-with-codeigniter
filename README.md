@@ -14,3 +14,6 @@ This is a sample ```CRUD``` using ExtJS 4.2 with Codeigniter 3.x
 
 ## Result
 ![image](https://3.bp.blogspot.com/-Ouxiy6oM_Go/Vtm-5EY4BdI/AAAAAAAAI7k/GHgXBu60vSc/s640/Log.jpeg)
+
+## Article
+[http://www.kang-cahya.com/2016/03/crud-codeigniter-304-dengan-extjs-42.html](http://www.kang-cahya.com/2016/03/crud-codeigniter-304-dengan-extjs-42.html)
