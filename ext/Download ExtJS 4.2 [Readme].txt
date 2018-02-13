@@ -1,0 +1,2 @@
+You can download the source here :
+ExtJS 4.2 => https://github.com/xantus/ext-js-gpl
